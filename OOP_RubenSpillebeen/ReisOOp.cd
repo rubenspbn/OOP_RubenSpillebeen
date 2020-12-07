@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_RubenSpillebeen.Models.Adres">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAgAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.AutoVakantie">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AutoVakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.Cruise">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Cruise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.LoggerService">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LoggerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.LogMessage">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LogMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.Persoon">
+    <Position X="18" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAgAAAAAAAAABAAAAAwAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Persoon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.Reis" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAACgIAAA=</HashCode>
+      <FileName>Models\Reis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.Reisbureau">
+    <Position X="19.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Reisbureau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.ReisReservatie" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAEAAAAAAAAABAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\ReisReservatie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_RubenSpillebeen.Models.VliegtuigVakantie">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\VliegtuigVakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOP_RubenSpillebeen.Interfaces.ILoggable">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILoggable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
