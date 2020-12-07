@@ -20,10 +20,7 @@ namespace OOP_RubenSpillebeen.Models
             Persoon = persoon;
             Reis = reis;
             Reisbureau = reisbureau;
-            LogMessage = new LogMessage()
-            {
-                Boodschap = $"gereserveerd door: {persoon.Naam} bij {reisbureau.Naam}"
-            };
+            LogMessage = new LogMessage($"gereserveerd door: {persoon.Naam} bij {reisbureau.Naam}")
             LoggerService.AddLogMessage(LogMessage);
         }
     }

@@ -12,8 +12,9 @@ namespace OOP_RubenSpillebeen.Models
         public int ID { get; set; }
         public string Boodschap { get; set; }
         //CONSTRUCTORS
-        public LogMessage()
+        public LogMessage(string boodschap)
         {
+            Boodschap = boodschap;
             ID = GenereerID();
         }
         //METHODS
